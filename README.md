@@ -5,9 +5,9 @@
 > **"Certified Tech Developer - the Ultimate Degree".**
 
 
-### Sobre a disciplina: 
+## Sobre a disciplina: 
 
-## Metas de realização
+### Metas de realização
 
 1. Gerar soluções programáveis para o problema de um determinado contexto.
 2. Adquirir o conhecimento necessário para desenvolver código Javascript imperativo.
@@ -16,7 +16,7 @@
 5. Formar bases teóricas sólidas.
 6. Adquirir autonomia ao incorporar novos conhecimentos.
 
-## Objetivos de aprendizagem
+### Objetivos de aprendizagem
 
 1. Entender o que é programação;
 2. Aprender sobre linguagens de programação;
