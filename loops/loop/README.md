@@ -115,7 +115,7 @@ for (let i = 1; i <= 25; i++){
 
 
 //2ª opção
-for (let i = 11; i <= 275; i+=11){
+for (let i = 11; i <= 25*11; i+=11){
     console.log(i)
 }
 ```
