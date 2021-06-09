@@ -1,11 +1,11 @@
 # Exercício: “Estações”
 
 
-**Objetivo**
+## Objetivo
 
 Identificar os usos do switch e a sua sintaxe na programação
 
-**Micro desafios**
+## Micro desafios
 
 Crie um algoritmo utilizando switch que receba uma string e tenha 5 situações:
 

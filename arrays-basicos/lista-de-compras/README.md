@@ -1,12 +1,12 @@
 # Exercício: “Lista de Compras”
 
 
-**Objetivo**
+## Objetivo
 
 Entender e aplicar as funções auxiliares relacionadas ao array.
 
 
-**Micro desafios**
+## Micro desafios
 
 Crie um array que contenha nomes de produtos para compra.
 

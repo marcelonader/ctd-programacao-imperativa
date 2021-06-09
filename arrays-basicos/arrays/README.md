@@ -1,7 +1,7 @@
 # Exercício: Arrays
 
 
-**Objetivo**
+## Objetivo
 
 Vamos fixar nosso conhecimento sobre Arrays explorando diferentes comandos sobre ele. Veremos se eles se comportam como esperamos ou se ocorrem resultados inesperados.
 
@@ -14,7 +14,7 @@ Em primeiro lugar, vamos praticar os comandos mais comuns e necessários:
 4- Exclua elementos de um array.
 5- Compare elementos de um array com elementos de outro array. 
 
-**Micro desafios**
+## Micro desafios
 
 O líder técnico da equipe precisa conhecer a estrutura de dados do novo projeto. Para isso, devemos:
 

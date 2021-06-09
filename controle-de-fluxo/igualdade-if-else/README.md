@@ -1,11 +1,11 @@
 # Exercício “Igualdade, if e else”
 Exercício de Programaçao Imperativa
 
-**Objetivo**
+## Objetivo
 
 Entender como é a sintaxe de uma função condicional utilizando if/else e sinal de igualdade.
 
-**Microdesafios**
+## Micro desafios
 
 Vamos brincar com as condições!
 

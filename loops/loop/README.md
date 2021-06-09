@@ -1,13 +1,13 @@
 # Exercício “loop”
 
 
-**Objetivo**
+## Objetivo
 
 Vamos revisar as diferentes sintaxes e possibilidades de loop em JS.
 Lembre-se que cada resposta pode ser diferente. O que será observado é a correta aplicação dos conhecimentos adquiridos no curso.
 
 
-**Microdesafios**
+## Micro desafios
 
 Execute essas ações simples e comumente usadas para trabalhar com loops e arrays.
 

@@ -1,11 +1,11 @@
 #Exercício: "Meu primeiro if"
 
 
-**Objetivo**
+## Objetivo
 
 Entender como é a sintaxe de uma estrutura condicional.
 
-**Microdesafios**
+## Micro desafios
 
 Com este exercício, vamos construir um if simples.
 

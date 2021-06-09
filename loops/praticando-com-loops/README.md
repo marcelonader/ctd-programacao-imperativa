@@ -1,12 +1,12 @@
 # Exercício “Praticando com Loops”
 
 
-**Objetivo**
+## Objetivo
 
 Entender a aplicação de loops, em seus diversos contextos
 
 
-**Micro desafios**
+## Micro desafios
 
 
 **1- Repetir como um papagaio**

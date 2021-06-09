@@ -1,11 +1,11 @@
 # Exercício “Pode Subir”
 
 
-**Objetivo**
+## Objetivo
 
 Vamos determinar em que momento fazer uso de uma estrutura condicional.
 
-**Microdesafios**
+## Micro desafios
 
 Em um parque de diversões nos pedem um programa para verificar se os passageiros da montanha-russa podem entrar no brinquedo.
 
