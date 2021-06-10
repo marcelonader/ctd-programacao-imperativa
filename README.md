@@ -1,4 +1,4 @@
-# ctd-programacao-imperativa
+# CTD - Programação Imperativa
 
 
 >Projetos/Desafios realizados na disciplina de Programação Imperativa do Curso
