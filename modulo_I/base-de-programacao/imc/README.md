@@ -1,4 +1,4 @@
-# Exercício: Arrays
+# Exercício: Base de Programação - IMC
 
 
 ## Objetivo
