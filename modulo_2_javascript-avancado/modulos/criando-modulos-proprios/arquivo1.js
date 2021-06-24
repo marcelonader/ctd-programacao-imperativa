@@ -16,4 +16,8 @@ module.exports.sayHello = (nome) => `Olá, ${nome}! Muito prazer!`;
 
 module.exports.imc = (peso, altura) => peso / (altura**2);
 
+// ou
+
+module.exports = {sayHello, imc}
+
 
