@@ -66,6 +66,7 @@ let microondas = {
                 break;
             default:
                 console.log(`Prato a ser preparado: ${prato[0].toUpperCase() + prato.substring(1)}`);
+                console.log('Prato inexistente!');
         }
     }
 }
