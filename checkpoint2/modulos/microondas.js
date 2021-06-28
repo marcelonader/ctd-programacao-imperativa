@@ -80,7 +80,7 @@ const execMicroondas = (tempoEmSegundosOpcional, tempoDefault, prato) => {
         // for (let i = tempoSegundosOpcional; i >= 0; i--) {
         //     console.log(`Tempo restante para o preparo: ${i} segundos`)
         // }
-        return 'Prato pronto, bom apetite!!! 😋 🍛' 
+        return 'Prato pronto, bom apetite!!! 😋 🍛\n\n' 
         
         //caso o usuário estabeleça um tempo de preparo, será aplicado o tempo definido por ele, aplicando-se as regras abaixo:
     } else {
@@ -89,16 +89,16 @@ const execMicroondas = (tempoEmSegundosOpcional, tempoDefault, prato) => {
         console.log('Tempo definido: ' + tempoEmSegundosOpcional)
         //Condição caso o tempo definido pelo usuário seja inferior ao tempo necessário de preparo.
         if (tempoEmSegundosOpcional < tempoDefault) {
-            return 'Tempo insuficiente para o preparo do prato... 😐'
+            return 'Tempo insuficiente para o preparo do prato... 😐\n\n'
         //Condição caso o tempo definido pelo usuário seja maior ou igual ao tempo necessário de preparo, bem como não ultrapasse o dobro do tempo necessário ao preparo.
         } else if (tempoEmSegundosOpcional >= tempoDefault && tempoEmSegundosOpcional <= tempoDefault * 2) {
-            return 'Prato pronto, bom apetite!!! 😋 🍛'
+            return 'Prato pronto, bom apetite!!! 😋 🍛\n\n'
         //Condição caso o tempo definido pelo usuário ultrapasse o dobro do tempo necessário ao preparo e que não ultrapasse o triplo do tempo necessário ao preparo.
         } else if (tempoEmSegundosOpcional > tempoDefault * 2 && tempoEmSegundosOpcional <= tempoDefault * 3) {
-            return 'A comida queimou 🙁'
+            return 'A comida queimou 🙁\n\n'
         //Condição caso o tempo definido pelo usuário ultrapasse o triplo do tempo necessário de preparo.    
         } else if (tempoEmSegundosOpcional > tempoDefault * 3) {
-            return 'Kabumm!!! 😫'
+            return 'Kabumm!!! 😫\n\n'
         }
     }
 }
