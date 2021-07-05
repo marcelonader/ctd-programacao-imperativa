@@ -65,21 +65,3 @@ function filtrar(arr, valorMinimo, valorMaximo, qualidadeMinima, status) {
 
 
 filtrar(produtos, 482, 1600, 60, 'disponível');
-
-
-
-// let carrinho = produtos.filter(elemento => {
-// const valor = elemento.valor;
-// const qualidade = elemento.qualidade;
-// const status = elemento.status;
-// const selecionado = (valor >= 482 && valor <= 1600) && ((qualidade * 10) > 60) && (status === true);
-// return selecionado;
-// })
-
-// carrinho.forEach(elemento => {
-//     console.log(`Produto: ${elemento.nome} - Preço: ${elemento.valor}`)
-// })
-
-// const total = carrinho.reduce((acum, atual) => acum.valor + atual.valor)
-
-// console.log(`O valor total de todos os produtos filtrados é de R$ ${total}`)

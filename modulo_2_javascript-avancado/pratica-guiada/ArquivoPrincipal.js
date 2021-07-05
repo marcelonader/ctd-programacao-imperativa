@@ -31,10 +31,10 @@ const curso = {
     }
 }
 
-console.log(curso.listaEstudantes)
-curso.adicionarAluno(new Aluno('Rodrigo', 9, [10, 8, 7, 2]))
-console.log(curso.listaEstudantes)
+// console.log(curso.listaEstudantes)
+// curso.adicionarAluno(new Aluno('Rodrigo', 9, [10, 8, 7, 2]))
+// console.log(curso.listaEstudantes)
 
-console.log(curso.verificaAprovacao('Rodrigo'))
+// console.log(curso.verificaAprovacao('Rodrigo'))
 
-console.log(curso.verificaAlunosAprovados())
+// console.log(curso.verificaAlunosAprovados())
