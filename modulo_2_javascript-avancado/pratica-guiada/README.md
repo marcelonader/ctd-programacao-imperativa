@@ -37,8 +37,3 @@ Crie um método para o objeto curso que percorra a lista de estudantes e retorne
 ## Micro desafio - passo 7
 
 Importe o módulo estudantes.js, que contém uma lista de alunos, dentro do arquivo que contém o objeto curso. Substitua o conteúdo da propriedade lista de estudantes, pela lista de estudantes do arquivo estudantes.js e garanta que sigam funcionando todos os métodos corretamente. (revisar que o arquivo tenha todos os métodos corretamente).
-**Resposta**
-
-```js
-
-```
