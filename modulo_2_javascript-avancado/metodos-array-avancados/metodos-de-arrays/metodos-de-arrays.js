@@ -24,6 +24,7 @@ console.log(numeros.reduce((acumulador, elemento) => {
     return `${acumulador} - ${elemento}`
 }));
 
+numeros.reduce()
 // 4. Crie um array de animais, após isso passe por cada índice utilizando o .forEach() e imprima a frase “O animal é NOME_DO_ANIMAL”.
 
 let animais = ['onça', 'macaco', 'cachorro', 'gato'];

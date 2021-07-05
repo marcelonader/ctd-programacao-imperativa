@@ -39,7 +39,7 @@ function Conta (numeroConta,saldo,nomeTitular){
         console.log(`Saldo anterior da conta nº ${this.numeroConta}: R$${this.saldo}`);
         this.saldo += valor;
         console.log(`Foi realizado um depósito na conta nº ${this.numeroConta} no valor de R$${valor}. O saldo atual é de: R$${this.saldo}`);
-    };
+        };
     this.saque = function(valorSaque){
         console.log(`Saldo anterior da conta nº ${this.numeroConta}: R$${this.saldo}`);
         if(valorSaque > this.saldo){
@@ -47,7 +47,7 @@ function Conta (numeroConta,saldo,nomeTitular){
         } else {
             this.saldo -= valorSaque; console.log(`Foi realizado um saque na conta nº ${this.numeroConta} no valor de R$${valorSaque}. O saldo atual é de: R$${this.saldo}`)
         }
-    }
+        }
 }
 
 // 5. Instancie os objetos com diferentes valores iniciais e teste os métodos.
